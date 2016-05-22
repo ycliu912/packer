@@ -1,0 +1,9 @@
+{
+	"builders": [
+		{
+			"type": "docker",
+			"image": "busybox",
+			"export_path": "image.tar"
+		}
+	]
+}
